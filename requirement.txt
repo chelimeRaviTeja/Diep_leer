@@ -1,0 +1,5 @@
+python quest.py file.txt -v
+export GOOGLE_APPLICATION_CREDENTIALS="credentials.json"
+ gcloud auth activate-service-account   rtt-291@organic-gecko-196009.iam.gserviceaccount.com            --key-file=credentials.json --project=organic-gecko-196009
+gcloud auth login
+ffmpeg -i somefile.mp3 -f segment -segment_time 3 -c copy out%03d.mp3

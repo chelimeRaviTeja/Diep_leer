@@ -1,0 +1,1 @@
+hello everyone in today's episode we are going to look into what is Pandas and how to install it has become a buzzword in Python community nowadays especially it is very popular in data science communitywhat is data science data science or Data Analytics is a process of analysing large set of data points in to get answers and questions related to that day 10
